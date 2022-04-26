@@ -130,3 +130,5 @@ const list = [
   new Card('golden knight', 160, 2000, 'Medium', 0.9, 'King Level 14', 6, 1, 'Champion', 4),
   new Card('mighty miner', '40-400', 2400, 'Medium', 0.4, 'King Level 14', '-', 1, 'Champion', 4 )
 ]
+
+module.exports = { list }
